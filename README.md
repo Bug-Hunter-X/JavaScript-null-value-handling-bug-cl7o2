@@ -1,0 +1,1 @@
+This repository contains a JavaScript code example demonstrating a common bug related to null value handling. The original code returns null if either input is null. The solution demonstrates how to handle null values more gracefully.
